@@ -8,10 +8,9 @@ This private repository hosts official compiled binary distributions for EXCEL A
 | :--- | :--- | :--- | :--- |
 | **Windows Installer** | `excel-academy-setup.exe` | Setup Wizard (.exe) | Official Windows 10/11 64-bit installer with exam shield |
 | **Windows Portable** | `excel-academy-portable.exe` | Standalone (.exe) | Zero-install portable edition |
-| **Android Pro (ARM64)** | `excel-academy-pro-arm64.apk` | Native Flutter | High performance 64-bit edition for modern devices |
-| **Android Pro (ARMv7)** | `excel-academy-pro-armv7.apk` | Native Flutter | 32-bit edition for older Android phones |
-| **Android Pro (Universal)** | `excel-academy-pro.apk` | Native Flutter | Universal APK compatible with all architectures |
-| **Android Lite** | `excel-academy-lite.apk` | Web-Synced | Instant ultra-lightweight edition (~1.2 MB) |
+| **Android Pro (ARM64)** | `excel-academy-pro.apk` / `excel-academy-pro-arm64.apk` | Native Flutter Pro (64-bit) | High performance edition for modern phones (~39.9 MB) |
+| **Android Lite (ARMv7)** | `excel-academy-lite.apk` / `excel-academy-pro-armv7.apk` | Native Flutter Lite (32-bit) | Lightweight edition for older Android phones (~32.6 MB) |
+| **Android Universal** | `excel-academy-universal.apk` | Native Flutter Universal | All-in-one APK compatible with all architectures (~110.8 MB) |
 
 ---
 
